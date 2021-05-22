@@ -1,0 +1,51 @@
+# test 07 / public / robot com pas au centre de sa base
+
+# gisement
+0
+
+# Bases
+11 # nbB
+
+0 500 5900 0 0 0 1
+# Communication:
+1 0 0 500 0 500 true
+
+-600 -900 1111 0 0 0 1
+# Communication:
+1 0 -600 -900 -600 -900 true
+
+-480 -800 111 0 0 0 1
+# Communication:
+1 0 -480 -800 -480 -800 true
+
+-360 -700 1221 0 0 0 1
+# Communication:
+1 0 -360 -700 -360 -700 true
+
+-240 -600 1122 0 0 0 1
+# Communication:
+1 0 -240 -600 -240 -600 true
+
+-120 -500 2211 0 0 0 1
+# Communication:
+1 0 -120 -500 -120 -500 true
+
+0 -400 2191 0 0 0 1
+# Communication:
+1 0 0 -400 0 -400 true
+
+120 -300 2101 0 0 0 1
+# Communication:
+1 0 120 -300 120 -300 true
+
+240 -200 113 0 0 0 1
+# Communication:
+1 0 240 -200 240 -200 true
+
+360 -200 191 0 0 0 1
+# Communication:
+1 0 370 -200 370 -200 true
+
+0 -100 1111 0 0 0 1
+# Communication:
+1 0 0 -100 0 -100 true
